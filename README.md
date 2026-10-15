@@ -1,14 +1,16 @@
 # Acme Financial Invoicing & Analytics Dashboard
 
+[![Live Demo](https://img.shields.io/badge/Live_App-Vercel-3b82f6?style=for-the-badge&logo=vercel&logoColor=white)](https://firstnextappthatisdashboard.vercel.app)
+[![Portfolio Architecture](https://img.shields.io/badge/Architecture-shivammahajan.com-ff5d01?style=for-the-badge)](https://shivammahajan.com/projects/)
 [![Next.js](https://img.shields.io/badge/Framework-Next.js%2014-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/Language-TypeScript-3178C6?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Styling-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
-[![Deployment](https://img.shields.io/badge/Deployed-Vercel-black?style=for-the-badge&logo=vercel)](https://firstnextappthatisdashboard.vercel.app)
 
 A fullstack financial management dashboard and invoicing platform built with Next.js App Router. Features server-rendered revenue visualizations, paginated invoice search and filtering, database-backed CRUD mutations, and optimistic UI streaming.
 
-Live Platform: [Acme Dashboard on Vercel](https://firstnextappthatisdashboard.vercel.app/) · [Portfolio](https://shivammahajan.com/)
+* **Live Demo:** **[https://firstnextappthatisdashboard.vercel.app](https://firstnextappthatisdashboard.vercel.app)**
+* **Engineering Portfolio:** **[https://shivammahajan.com/projects/](https://shivammahajan.com/projects/)**
 
 ---
 
